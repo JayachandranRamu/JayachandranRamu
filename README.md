@@ -6,7 +6,8 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on Portfolio.<br>🌱 I’m currently learning MERN Stacks.<br>⚡ Fun fact - I am good in CSS
+🔭 I’m currently working on Portfolio.<br>🌱 I’m currently learning MERN Stacks.<br>
+Fell free to visit my [Portfolio](https://jayachandranramu.github.io/#home)
 
 
 ## 🌐 Socials:
