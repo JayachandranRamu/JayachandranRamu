@@ -7,7 +7,7 @@
 
 # 💫 About Me:
 🔭 I’m currently working on Portfolio.<br>🌱 I’m currently learning MERN Stacks.<br>
-Fell free to visit my [Portfolio](https://jayachandranramu.github.io/#home)
+👨‍💻 All my projects are available at my [Portfolio](https://jayachandranramu.github.io/)
 
 
 ## 🌐 Socials:
